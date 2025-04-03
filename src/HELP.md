@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.gsk.pubsub.pubsub-poc' is invalid and this project uses 'com.gsk.pubsub.pubsub_poc' instead.
+* The original package name 'com.poc.pubsub-poc' is invalid and this project uses 'com.poc.pubsub_poc' instead.
 
 # Getting Started
 
